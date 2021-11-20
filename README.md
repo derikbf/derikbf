@@ -14,8 +14,8 @@ I have a degree in Accounting and Computer Networks 🎓 and I also work as a ju
 
 ### Connect with me:
 
-[<img align="left" alt="derikbf  | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/derikbf/)
-[<img align="left" alt="derikbf  | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />](https://www.instagram.com/derikbf/)
+[<img align="left" alt="derikbf target="_blank" | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/derikbf/)
+[<img align="left" alt="derikbf target="_blank" | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />](https://www.instagram.com/derikbf/)
 
 <br/><br/>
 
