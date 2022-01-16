@@ -1,52 +1,76 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="derikbf" /> </p> -->
+<div align="center">
+  <a href="https://github.com/derikbf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derikbf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikbf&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 ### Hi, I am "Dérik". 👋
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/pedroschmid)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pedroschmid)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=pedroschmid&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/pedroschmid/pedroschmid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 ### Glad to see you here!  🤩  &nbsp;
 I have a degree in Accounting and Computer Networks 🎓 and I also work as a junior developer at VilaApps 🏛. I am passionate about learning and I am always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, besides I also love to talk about hardware 💻.
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br/>
 
-### Connect with me:
+## Skills 
 
-[<img align="left" alt="derikbf  | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/derikbf/)
-[<img align="left" alt="derikbf  | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />](https://www.instagram.com/derikbf/)
-
+**Main Skills**<br>
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <br/><br/>
 
-### Dev
-
-<img align="left" alt="javascript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img align="left" alt="ruby" width="36px" src="https://icons-for-free.com/iconfiles/png/512/end+long+shadow+programming+language+rails+ruby+web+web+technology-1320184847854241323.png" />
-<img align="left" alt="react" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img align="left" alt="react-native" width="36px" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" />
+**I'm also learning** <br>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <br/><br/>
 
-### Ops
-
-<img align="left" alt="docker" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
+**Database** <br>
+<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <br/><br/>
 
-### Cloud
-<img align="left" alt="aws" width="36px" src="https://www.techbrace.com/wp-content/uploads/2018/12/aws.png" />
+**Hosting plataforms that I like to use** <br>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 <br/><br/>
 
-### Agile
+**Version control used** <br>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<br/><br/>
 
+**Agile** <br>
 <img align="left" alt="git" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="jira" width="36px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
 <img align="left" alt="gitHub" width="36px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <img align="left" alt="bitbucket" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
 <img align="left" alt="bitbucket" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
+<br/><br/><br/>
 
+**Ops** <br>
+<img align="left" alt="git" width="46px" src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png" />
+<br/><br/>
+
+**Social network** <br>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/derikbf/)
 <br/><br/>
 
 
----
+## Main Projects on this repository
 
-![Dérik's github stats](https://github-readme-stats.vercel.app/api?username=derikbf&show_icons=true&theme=tokyonight)
+### Ruby on Rails
+- [ECommerce API(Ruby on Rails | Postgresql)](https://github.com/derikbf/Ruby-Ecommerce-api)
+- [Book Comprehensive-Ruby (Ruby on Rails)](https://github.com/derikbf/Book-Comprehensive-Ruby)
+- [Clone Instagram (Ruby On Rails)](https://github.com/derikbf/ruby-instagram)
+- [Social Network (Ruby On Rails)](https://github.com/derikbf/ruby-rails-social-network)
+- [Blog (Ruby On Rails)](https://github.com/derikbf/ruby-blog)
+- [Click Eventos (Em andamento - estudos (Ruby On Rails)](https://github.com/derikbf/clickevents)
+
+### React and Typescript
+- [Ecommerce (React | Typescritp)](https://github.com/derikbf/React-ecommerce-web)
+- [Site Componentizado (React)](https://github.com/derikbf/site-componentizado-react-github-api)
+
+### NodeJS
+- [RentalX - IGNITE NODEJS (JavaScript | NodeJS | Typescript)](https://github.com/derikbf/Ignite-Node-rental)
+
+### Javascript (Bootcamp JavaScript Game Developer da Digital Innovation One)
+- [Jogo Space Sooter (Javascript)](https://github.com/derikbf/jogo-space-shooter-dio)
+- [Jogo da Velha (Javascript)](https://github.com/derikbf/jogo-da-velha-dio)
+- [Jogo de Naves (Javascript)](https://github.com/derikbf/jogo-de-naves-dio)
+- [Jogo da Memória - Mário (Javascript)](https://github.com/derikbf/jogo-memoria-tema-mario-dio)
+- [Jogo do Dinossauro Sem Internet (Javascript)](https://github.com/derikbf/jogo-dinossauro-sem-internet-dio)
+- [Jogo do Genius (Javascript)](https://github.com/derikbf/jogo-genius-dio)
