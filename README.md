@@ -53,6 +53,7 @@ I have a degree in Accounting and Computer Networks 🎓 and I also work as a ju
 ## Main Projects on this repository
 
 ### Ruby on Rails
+- [Sistema de Locadora de Carros - API(Ruby on Rails | Postgresql)](https://github.com/derikbf/rent-api)
 - [ECommerce API(Ruby on Rails | Postgresql)](https://github.com/derikbf/Ruby-Ecommerce-api)
 - [Book Comprehensive-Ruby (Ruby on Rails)](https://github.com/derikbf/Book-Comprehensive-Ruby)
 - [Clone Instagram (Ruby On Rails)](https://github.com/derikbf/ruby-instagram)
