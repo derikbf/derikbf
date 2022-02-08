@@ -7,7 +7,7 @@
 ### Hi, I am "Dérik". 👋
 
 ### Glad to see you here!  🤩  &nbsp;
-I have a degree in Accounting and Computer Networks 🎓 and I also work as a junior developer at VilaApps 🏛. I am passionate about learning and I am always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, besides I also love to talk about hardware 💻.
+I have a degree in Accounting and Computer Networks 🎓 and I'm currently working as a junior developer at VilaApps 🏛. I'm passionate and always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, and also love to talk about hardware 💻.
 
 <br/>
 
