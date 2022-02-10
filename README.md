@@ -9,7 +9,6 @@
 I have a degree in Accounting and Computer Networks 🎓 and I'm currently working as a junior developer at VilaApps 🏛. I'm passionate and always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, and also love to talk about hardware 💻.
 
 <br/>
-## Skills 
 
 **Main Skills**<br>
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -48,11 +47,14 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/derikbf/)
 <br/><br/>
 
-
 ## Main Projects on this repository
 
+### GoLang
+- [Curso FullCycle - YouTube](https://github.com/derikbf/GoLang-full-cycle)
+- [Book Mastering Go](https://github.com/derikbf/Book-Mastering-Go)
+
 ### Ruby on Rails
-- [Sistema de Locadora de Carros - API(Ruby on Rails | Postgresql)](https://github.com/derikbf/rent-api)
+- [Sistema de Locadora de Carros - API (Ruby on Rails | Postgresql)](https://github.com/derikbf/rent-api)
 - [ECommerce API(Ruby on Rails | Postgresql)](https://github.com/derikbf/Ruby-Ecommerce-api)
 - [Book Comprehensive-Ruby (Ruby on Rails)](https://github.com/derikbf/Book-Comprehensive-Ruby)
 - [Clone Instagram (Ruby On Rails)](https://github.com/derikbf/ruby-instagram)
@@ -65,7 +67,7 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 - [Site Componentizado (React)](https://github.com/derikbf/site-componentizado-react-github-api)
 
 ### NodeJS
-- [RentalX - IGNITE NODEJS (JavaScript | NodeJS | Typescript)](https://github.com/derikbf/Ignite-Node-rental)
+- [RentlX - IGNITE NODEJS (JavaScript | NodeJS | Typescript)](https://github.com/derikbf/Ignite-Node-rental)
 
 ### Javascript (Bootcamp JavaScript Game Developer da Digital Innovation One)
 - [Jogo Space Sooter (Javascript)](https://github.com/derikbf/jogo-space-shooter-dio)
