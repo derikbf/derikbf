@@ -1,8 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derikbf&theme=radical&show_icons=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=derikbf&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derikbf&theme=dracula) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=derikbf&layout=compact&langs_count=7&theme=midnight-purple) 
 
 ### Hi, I am "Dérik". 👋
 
@@ -10,7 +9,6 @@
 I have a degree in Accounting and Computer Networks 🎓 and I'm currently working as a junior developer at VilaApps 🏛. I'm passionate and always willing to learn and work with new technologies ✨. I love to explore technologies to solve problems in real life, and also love to talk about hardware 💻.
 
 <br/>
-
 ## Skills 
 
 **Main Skills**<br>
