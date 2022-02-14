@@ -15,7 +15,7 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 <br/><br/>
 
 **I'm also learning** <br>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="NodeJS" src="https://i.ibb.co/hFyFKrr/golang.png"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 
 <!-- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
 
@@ -50,10 +50,12 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 ## Main Projects on this repository
 
 ### GoLang
-- [Curso FullCycle - YouTube](https://github.com/derikbf/GoLang-full-cycle)
-- [Book Mastering Go](https://github.com/derikbf/Book-Mastering-Go)
+- [Curso FullCycle - YouTube - Wesley Willian](https://github.com/derikbf/GoLang-full-cycle)
+<!-- - [Curso Aprenda Go - YouTube - Ellen Körbes](https://github.com/derikbf/Aprenda-Go-YouTube) -->
+<!-- - [Book Mastering Go](https://github.com/derikbf/Book-Mastering-Go) -->
 
 ### Ruby on Rails
+- [Livro Agile Web Development With Rails 8 (Ruby on Rails | Postgresql)](https://github.com/derikbf/Book-Agile-Web-Development-With-Rails-6)
 - [Sistema de Locadora de Carros - API (Ruby on Rails | Postgresql)](https://github.com/derikbf/rent-api)
 - [ECommerce API(Ruby on Rails | Postgresql)](https://github.com/derikbf/Ruby-Ecommerce-api)
 - [Book Comprehensive-Ruby (Ruby on Rails)](https://github.com/derikbf/Book-Comprehensive-Ruby)
