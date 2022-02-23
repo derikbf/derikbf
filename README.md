@@ -66,7 +66,7 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 - [Click Eventos (Em andamento - estudos (Ruby On Rails)](https://github.com/derikbf/clickevents)
 
 ### React and Typescript
-- [Ecommerce - OneBitCode (React | Typescritp)](https://github.com/derikbf/React-ecommerce-web)
+- [Ecommerce - OneBitCode - Em andamento (React | Typescritp)](https://github.com/derikbf/React-ecommerce-web)
 - [Site Componentizado (React)](https://github.com/derikbf/site-componentizado-react-github-api)
 
 ### NodeJS
