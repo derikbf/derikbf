@@ -52,9 +52,10 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 ### GoLang
 - [Curso FullCycle - YouTube - Wesley Willian](https://github.com/derikbf/GoLang-full-cycle)
 <!-- - [Curso Aprenda Go - YouTube - Ellen Körbes](https://github.com/derikbf/Aprenda-Go-YouTube) -->
-<!-- - [Book Mastering Go](https://github.com/derikbf/Book-Mastering-Go) -->
 
 ### Ruby on Rails
+- [Hackahon OneBitCode - 2º Lugar - Time Amarelo (Ruby on Rails | Postgresql)](https://github.com/derikbf/Quick-Orders)
+
 - [Livro Agile Web Development With Rails 6 (Ruby on Rails | Postgresql)](https://github.com/derikbf/Book-Agile-Web-Development-With-Rails-6)
 - [Sistema de Locadora de Carros - API (Ruby on Rails | Postgresql)](https://github.com/derikbf/rent-api)
 - [ECommerce API(Ruby on Rails | Postgresql)](https://github.com/derikbf/Ruby-Ecommerce-api)
