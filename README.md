@@ -49,6 +49,10 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 
 ## Main Projects on this repository
 
+### NodeJS
+- [RentlX - IGNITE NODEJS (JavaScript | NodeJS | Typescript)](https://github.com/derikbf/Ignite-Node-rental)
+- [Criando API com NODEJS - Balta.io - YouTube (JavaScript | NodeJS)](https://github.com/derikbf/node-api-balta.io)
+
 ### GoLang
 - [Curso FullCycle - YouTube - Wesley Willian](https://github.com/derikbf/GoLang-full-cycle)
 <!-- - [Curso Aprenda Go - YouTube - Ellen Körbes](https://github.com/derikbf/Aprenda-Go-YouTube) -->
@@ -68,9 +72,6 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 ### React and Typescript
 - [Ecommerce - OneBitCode - Em andamento (React | Typescritp)](https://github.com/derikbf/React-ecommerce-web)
 - [Site Componentizado (React)](https://github.com/derikbf/site-componentizado-react-github-api)
-
-### NodeJS
-- [RentlX - IGNITE NODEJS (JavaScript | NodeJS | Typescript)](https://github.com/derikbf/Ignite-Node-rental)
 
 ### Javascript (Bootcamp JavaScript Game Developer da Digital Innovation One)
 - [Jogo Space Sooter (Javascript)](https://github.com/derikbf/jogo-space-shooter-dio)
