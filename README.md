@@ -49,13 +49,15 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 
 ## Main Projects on this repository
 
-### NodeJS
-- [RentlX - IGNITE NODEJS (JavaScript | NodeJS | Typescript)](https://github.com/derikbf/Ignite-Node-rental)
-- [Criando API com NODEJS - Balta.io - YouTube (JavaScript | NodeJS)](https://github.com/derikbf/node-api-balta.io)
+### Node.js
+- [Curso Node.js com Typescript, Jest, TDD - Microserviço (Javascript | Node.js | Typescript)](https://github.com/derikbf/Node-micro-servicos-cloud)
+- [RentlX - IGNITE Node.js (JavaScript | Node.js | Typescript)](https://github.com/derikbf/Ignite-Node-rental)
+- [Otávio Miranda- Projeto Agenda - Node.js (Javascript | Express | MongoDB )](https://github.com/derikbf/Node-Agenda)
+- [Criando API com Node.js - Balta.io - YouTube (JavaScript | Node.js)](https://github.com/derikbf/node-api-balta.io)
 
 ### GoLang
 - [Curso FullCycle - YouTube - Wesley Willian](https://github.com/derikbf/GoLang-full-cycle)
-<!-- - [Curso Aprenda Go - YouTube - Ellen Körbes](https://github.com/derikbf/Aprenda-Go-YouTube) -->
+- [Curso Aprenda Go - YouTube - Ellen Körbes](https://github.com/derikbf/Aprenda-Go-YouTube)
 
 ### Ruby on Rails
 - [Hackahon OneBitCode - 2º Lugar 🥈 - Sistema de Pedido Rápido (Ruby on Rails | Postgresql)](https://github.com/derikbf/Quick-Orders)
