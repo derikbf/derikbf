@@ -60,7 +60,7 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 ### Ruby on Rails
 - [Hackahon OneBitCode - 2º Lugar 🥈 - Sistema de Pedido Rápido (Ruby on Rails | Postgresql)](https://github.com/derikbf/Quick-Orders)
 
-- [Livro Agile Web Development With Rails 6 (Ruby on Rails | Postgresql)](https://github.com/derikbf/Book-Agile-Web-Development-With-Rails-6)
+- [Rails 7 (Ruby on Rails | Postgresql)](https://github.com/derikbf/rails7-devise)
 - [Sistema de Locadora de Carros - API (Ruby on Rails | Postgresql)](https://github.com/derikbf/rent-api)
 - [ECommerce API - OneBitCode (Ruby on Rails | Postgresql)](https://github.com/derikbf/Ruby-Ecommerce-api)
 - [Book Comprehensive-Ruby (Ruby on Rails)](https://github.com/derikbf/Book-Comprehensive-Ruby)
