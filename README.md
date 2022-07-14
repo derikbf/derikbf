@@ -52,10 +52,9 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 
 ### Node.js | Typescript
 - [Curso Javascript e Typescript - Udemy - Otávio Miranda (Javascript | Typescript)](https://github.com/derikbf/Typescript)
-- [RentlX - IGNITE Node.js (JavaScript | Node.js | Typescript)](https://github.com/derikbf/Ignite-Node-rental)
+- [RentX - IGNITE Node.js (JavaScript | Node.js | Typescript)](https://github.com/derikbf/node-ignite-rentx)
 - [Otávio Miranda- Projeto Agenda - Node.js (Javascript | Express | MongoDB )](https://github.com/derikbf/Node-Agenda)
 - [Criando API com Node.js - Balta.io - YouTube (JavaScript | Node.js)](https://github.com/derikbf/node-api-balta.io)
-<!-- - [Curso Node.js com Typescript, Jest, TDD - Microserviço (Javascript | Node.js | Typescript)](https://github.com/derikbf/Node-micro-servicos-cloud) -->
 
 ### Ruby on Rails
 - [Hackahon OneBitCode - 1º Lugar 🥇 - Sistema de Histórico de Consultas Médicas (Ruby on Rails | Postgresql | React |)](https://github.com/derikbf/health-care-api)
