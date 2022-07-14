@@ -61,14 +61,12 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 - [Hackahon OneBitCode - 1º Lugar 🥇 - Sistema de Histórico de Consultas Médicas (Ruby on Rails | Postgresql | React |)](https://github.com/derikbf/health-care-api)
 - [Hackahon OneBitCode - 2º Lugar 🥈 - Sistema de Pedido Rápido (Ruby on Rails | Postgresql)](https://github.com/derikbf/Quick-Orders)
 
-- [Simulador de Exames (Ruby on Rails | Postgresql)](https://github.com/derikbf/rails7-devise)
 - [Sistema de Locadora de Carros - API (Ruby on Rails | Postgresql)](https://github.com/derikbf/rent-api)
 - [ECommerce API - OneBitCode (Ruby on Rails | Postgresql)](https://github.com/derikbf/Ruby-Ecommerce-api)
 - [Book Comprehensive-Ruby (Ruby on Rails)](https://github.com/derikbf/Book-Comprehensive-Ruby)
 - [Clone Instagram (Ruby On Rails)](https://github.com/derikbf/ruby-instagram)
 - [Social Network (Ruby On Rails)](https://github.com/derikbf/ruby-rails-social-network)
 - [Blog (Ruby On Rails)](https://github.com/derikbf/ruby-blog)
-- [Click Eventos (Em andamento - estudos (Ruby On Rails)](https://github.com/derikbf/clickevents)
 
 ### GoLang
 - [Curso FullCycle - YouTube - Wesley Willian](https://github.com/derikbf/GoLang-full-cycle)
