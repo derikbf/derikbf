@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derikbf&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derikbf&theme=cobalt&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=derikbf&layout=compact&langs_count=7&theme=cobalt) 
 
@@ -50,6 +50,7 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 ## Main Projects on this repository
 
 ### Node.js | Typescript
+- [Curso API completa com AdonisJS 5, Typescript e TDD - Giuliana S. Bezerra (Javascript | Typescript)](https://github.com/derikbf/node-adonisJS-roleplay)
 - [Curso Javascript e Typescript - Udemy - Otávio Miranda (Javascript | Typescript)](https://github.com/derikbf/Typescript)
 - [RentX - IGNITE Node.js (JavaScript | Node.js | Typescript)](https://github.com/derikbf/node-ignite-rentx)
 - [Otávio Miranda- Projeto Agenda - Node.js (Javascript | Express | MongoDB )](https://github.com/derikbf/Node-Agenda)
