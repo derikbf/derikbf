@@ -24,7 +24,7 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 <br/><br/>
 
 **Hosting plataforms that I like to use** <br>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <br/><br/>
 
 **Version control used** <br>
