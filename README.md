@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derikbf&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derikbf&theme=tokyonight&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=derikbf&layout=compact&langs_count=7&theme=cobalt) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=derikbf&layout=compact&langs_count=7&theme=tokyonight) 
 
 ### Hi, I am "Dérik". 👋
 
