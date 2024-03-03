@@ -49,7 +49,7 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 ## Main Projects on this repository
 
 ### Ruby on Rails
-- [FullStack Ecommerce - Sistema de Histórico de Consultas Médicas (Ruby on Rails | Postgresql | Tailwind CSS | Stripe | Hotwire |)](https://github.com/derikbf/fullstack-ecommerce)
+- [FullStack E-commerce (Ruby on Rails | Postgresql | Tailwind CSS | Stripe | Hotwire |)](https://github.com/derikbf/fullstack-ecommerce)
 
 - [Hackahon OneBitCode - 1º Lugar 🥇 - Sistema de Histórico de Consultas Médicas (Ruby on Rails | Postgresql | React |)](https://github.com/derikbf/health-care-api)
 - [Hackahon OneBitCode - 2º Lugar 🥈 - Sistema de Pedido Rápido (Ruby on Rails | Postgresql)](https://github.com/derikbf/Quick-Orders)
