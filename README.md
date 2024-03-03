@@ -14,7 +14,7 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 <br/><br/>
 
 **I'm also learning** <br>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
 
 <!-- <img alt="Golang" src="https://uploaddeimagens.com.br/images/003/725/642/original/golang.png"/> -->
 <!-- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
@@ -34,7 +34,6 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 **Agile** <br>
 <img align="left" alt="git" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="jira" width="36px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
-<img align="left" alt="gitHub" width="36px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <img align="left" alt="bitbucket" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
 <img align="left" alt="bitbucket" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-226075.png" />
 <br/><br/><br/>
@@ -49,14 +48,9 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 
 ## Main Projects on this repository
 
-### Node.js | Typescript
-- [Curso API completa com AdonisJS 5, Typescript e TDD - Giuliana S. Bezerra (Javascript | Typescript)](https://github.com/derikbf/node-adonisJS-roleplay)
-- [Curso Javascript e Typescript - Udemy - Otávio Miranda (Javascript | Typescript)](https://github.com/derikbf/Typescript)
-- [RentX - IGNITE Node.js (JavaScript | Node.js | Typescript)](https://github.com/derikbf/node-ignite-rentx)
-- [Otávio Miranda- Projeto Agenda - Node.js (Javascript | Express | MongoDB )](https://github.com/derikbf/Node-Agenda)
-- [Criando API com Node.js - Balta.io - YouTube (JavaScript | Node.js)](https://github.com/derikbf/node-api-balta.io)
-
 ### Ruby on Rails
+- [FullStack Ecommerce - Sistema de Histórico de Consultas Médicas (Ruby on Rails | Postgresql | Tailwind CSS | Stripe | Hotwire |)](https://github.com/derikbf/fullstack-ecommerce)
+
 - [Hackahon OneBitCode - 1º Lugar 🥇 - Sistema de Histórico de Consultas Médicas (Ruby on Rails | Postgresql | React |)](https://github.com/derikbf/health-care-api)
 - [Hackahon OneBitCode - 2º Lugar 🥈 - Sistema de Pedido Rápido (Ruby on Rails | Postgresql)](https://github.com/derikbf/Quick-Orders)
 
@@ -66,6 +60,13 @@ I have a degree in Accounting and Computer Networks 🎓 and I'm currently worki
 - [Clone Instagram (Ruby On Rails)](https://github.com/derikbf/ruby-instagram)
 - [Social Network (Ruby On Rails)](https://github.com/derikbf/ruby-rails-social-network)
 - [Blog (Ruby On Rails)](https://github.com/derikbf/ruby-blog)
+
+### Node.js | Typescript
+- [Curso API completa com AdonisJS 5, Typescript e TDD - Giuliana S. Bezerra (Javascript | Typescript)](https://github.com/derikbf/node-adonisJS-roleplay)
+- [Curso Javascript e Typescript - Udemy - Otávio Miranda (Javascript | Typescript)](https://github.com/derikbf/Typescript)
+- [RentX - IGNITE Node.js (JavaScript | Node.js | Typescript)](https://github.com/derikbf/node-ignite-rentx)
+- [Otávio Miranda- Projeto Agenda - Node.js (Javascript | Express | MongoDB )](https://github.com/derikbf/Node-Agenda)
+- [Criando API com Node.js - Balta.io - YouTube (JavaScript | Node.js)](https://github.com/derikbf/node-api-balta.io)
 
 ### GoLang
 - [Curso FullCycle - YouTube - Wesley Willian](https://github.com/derikbf/GoLang-full-cycle)
